@@ -1,0 +1,204 @@
+nav {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #92E0E5;
+}
+
+body {
+  font-weight: bold;
+  font-family: 'Raleway', sans-serif;
+}
+
+.what-are-dogs {
+  border: 3px solid #3F8DA7;
+  font-weight: bold;
+  line-height: 25px;
+  color: #3F8DA7;
+  background-color: #FFFFFF;
+ margin: 20px auto;
+ margin-top: -10px;
+  width: 125px;
+
+}
+
+.empty {
+height: 20px;
+}
+
+.site-dogs {
+  margin: 0px;
+  padding: 40px;
+}
+
+.nav-pages a {
+  float: right;
+  color: #ffffff;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.nav-pages {
+  display: inline;
+}
+
+.header {
+  text-align: center;
+background-image: url("images/park.jpg");
+background-size: cover;
+}
+
+.dog-icon {
+  display: inline;
+  margin: 8px 20px;
+  position: relative;
+  bottom: 0px;
+  width: 50%;
+}
+
+.dog1 {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 250px;
+  border: 4px solid #3F8DA7;
+  border-radius: 50%;
+  margin: 30px auto;
+  margin-top: -10px;
+} 
+
+.col {
+box-sizing: border-box;
+display: inline-block;
+min-width: 33%;
+max-width: 33%;
+float: left;
+text-align: center;
+}
+
+.col p {
+margin: 16px auto;
+display: block;
+text-align: center;
+}
+
+p {
+  width: 350px;
+}
+
+.dog2 {
+  box-sizing: border-box;
+  width: 175px;
+  margin: 50px auto;
+  border: 3px solid #3F8DA7;
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+}
+
+
+.dog3 {
+  box-sizing: border-box;
+  width: 175px;
+  margin: 50px auto;
+  border: 3px solid #3F8DA7;
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  }
+
+  .dog4 {
+    box-sizing: border-box;
+    width: 175px;
+    margin: 50px auto;
+    border: 3px solid #3F8DA7;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+   }
+
+.how-to-dog {
+  border: 3px solid #3F8DA7;
+  font-weight: bold;
+  line-height: 25px;
+  color: #3F8DA7;
+  background-color: #FFFFFF;
+ margin: 20px auto;
+ margin-top: -10px;
+  width: 105px;
+}
+
+.what-is-dog {
+  border: 3px solid #3F8DA7;
+  font-weight: bold;
+  line-height: 25px;
+  color: #3F8DA7;
+  background-color: #FFFFFF;
+ margin: 20px auto;
+ margin-top: -10px; 
+  width: 105px;
+}
+
+.dog-facts {
+  border: 3px solid #3F8DA7;
+  font-weight: bold;
+  line-height: 25px;
+  color: #3F8DA7;
+  background-color: #FFFFFF;
+ margin: 20px auto;
+ margin-top: -10px;
+  width: 105px;
+}
+
+  .footer-content {
+ text-align: center;
+  width: 100%;
+  height: 200px;
+  margin-top: 510px;
+  /*clear: left;*/
+  background-color: #3F8DA7;
+}
+
+.footer-content p {
+  color: #ffffff;
+position: absolute;
+width: 1200px;
+padding: 5px;
+}
+
+/*.learn-online {
+color: #ffffff;
+position: absolute;
+width: 1200px;
+padding: 5px;
+}*/
+
+.footer-content a {
+ /* color: #ffffff;*/
+  text-align: center;
+}
+
+.facebook {
+  margin: 70px auto;
+padding: 20px;
+  text-align: center;
+}
+
+.twitter {
+  margin: 70px auto;
+padding: 20px;
+  text-align: center;
+}
+
+.instagram {
+  margin: 70px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.linkedin {
+  margin: 70px auto;
+padding: 20px;
+  text-align: center;
+}
+
